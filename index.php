@@ -1,5 +1,5 @@
 <?php
 
-include_once("BRAWN CAMP.html");
+include_once("UWUUWU CAMP.html");
 
 ?>
